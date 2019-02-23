@@ -1,0 +1,33 @@
+!ENTRY Cannon_Robot_Development 2018-12-06 08:20:50
+!MESSAGE Running int file: /Users/morgan.k/Desktop/robotics/T-Shirt-Cannon/T-Shirt-Cannon/build.xml
+
+!ENTRY Cannon_Robot_Development 2018-12-06 08:20:51
+!MESSAGE Targets: deploy, Mode: run
+
+!ENTRY Cannon_Robot_Development 2018-12-06 10:30:06
+!MESSAGE Error logged: 
+java.net.SocketException: improper socket opened
+	<property name="target_color" value="GREEN"/>
+!MESSAGE Warning: Failure to distinguish GREEN, change target_color value or else operation may revert to default system settings!
+
+!ENTRY Cannon_Robot_Development 2018-12-06 10:37:10
+!MESSAGE Running int file: /Users/morgan.k/Desktop/robotics/T-Shirt-Cannon/T-Shirt-Cannon/build.xml
+
+!ENTRY Cannon_Robot_Development 2018-12-06 10:37:11
+!MESSAGE Targets: deploy, Mode: run
+
+!ENTRY Cannon_Robot_Development 2018-12-06 11:45:31
+!MESSAGE Error logged: 
+java.net.SocketException: improper socket opened
+	<property name="target_color" value="GREEN"/>
+!MESSAGE Reverting to default system settings
+	<property name="target_color" value="SILVER"/>
+	<property name="height" value="0"/>
+	<property name="speed" value="240"/>
+
+!ENTRY Cannon_Robot_Development 2018-12-06 11:45:45
+!Message Error logged:
+Out of ammunition. Shutting down in 3 minutes unless ammunition is added.
+
+!ENTRY Cannon_Robot_Development 2018-12-06 11:48:45
+!End
